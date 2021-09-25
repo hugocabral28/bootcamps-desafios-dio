@@ -6,7 +6,7 @@
 <!--About session-->
 <h1 align="center">Desafios dos Bootcamps da Digital Innovation One</h1>
 
-Aqui você vai encontrar todos os desafios dos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/).<br><br>
+Aqui você vai encontrar todos os desafios dos bootcamps que realizei da [Digital Innovation One](https://digitalinnovation.one/){:target="_blank"}.<br><br>
 Os códigos estão rodando normalmente na plataforma da DIO.
 <br><br>
 <!-- Ícones das linguagens -->
@@ -40,4 +40,4 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>  
 </details><br><br>
 <!--Bottom session-->
-<h4 align=center>Feito por <a href="https://www.linkedin.com/in/hugo-cabral/">Hugo Cabral</a></h4>
+<h4 align=center>Feito por <a href="https://www.linkedin.com/in/hugo-cabral/" target="_blank">Hugo Cabral</a></h4>
