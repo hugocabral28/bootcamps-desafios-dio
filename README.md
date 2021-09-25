@@ -26,17 +26,17 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Java</span></summary>
   <div>
     <h4>Introdução a Programação com Java</h4>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/IntroducaoaProgramacaoJava/VisitaFeira">Visita na Feira</a><br/>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/IntroducaoaProgramacaoJava/MultiplicacaoSimples">Multiplicação Simples</a><br/>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/IntroducaoaProgramacaoJava/FolhaPagamento">Folha de Pagamento</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/IntroducaoaProgramacaoJava/VisitaFeira.java">Visita na Feira</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/IntroducaoaProgramacaoJava/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/IntroducaoaProgramacaoJava/FolhaPagamento.java">Folha de Pagamento</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/FundamentosAritmeticosEmJava/QtdNumerosPositivos">Quantidade de Números Positivos</a><br/>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/FundamentosAritmeticosEmJava/ExibirNumerosPares">Exibindo Números Pares</a><br/>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/FundamentosAritmeticosEmJava/AnaliseNumeros">Análise de Números</a><br/>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/FundamentosAritmeticosEmJava/ContagemCedulas">Contagem de Cédulas</a><br/>
-    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/java/src/FundamentosAritmeticosEmJava/ConsumoMedioAutomovel">Consumo Médio do Automóvel</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/FundamentosAritmeticosEmJava/QtdNumerosPositivos.java">Quantidade de Números Positivos</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/FundamentosAritmeticosEmJava/ExibirNumerosPares.java">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/FundamentosAritmeticosEmJava/AnaliseNumeros.java">Análise de Números</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/FundamentosAritmeticosEmJava/ContagemCedulas.java">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/hugocabral28/bootcamps-desafios-dio/blob/main/java/src/FundamentosAritmeticosEmJava/ConsumoMedioAutomovel.java">Consumo Médio do Automóvel</a><br/>
   </div>  
 </details><br><br>
 <!--Bottom session-->
